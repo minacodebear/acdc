@@ -1,0 +1,12 @@
+h2 {
+    color: red;
+}
+
+.song-box {
+    display: flex;
+}
+
+.song-title {
+    width: 50%;
+    height: 100%;
+}
